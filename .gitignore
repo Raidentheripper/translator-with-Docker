@@ -1,0 +1,21 @@
+# Віртуальне оточення
+Horodynets/
+
+# Папки venv
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# IDE
+.vscode/
+
+# Docker
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
